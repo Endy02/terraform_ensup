@@ -1,0 +1,1 @@
+terraform init -backend-config="access_key=AKIA5HPA5JMVVUIMUPX2" -backend-config="secret_key=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"
